@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      
+      <h1>hello meme coin lovers</h1>
     </>
   )
 }
